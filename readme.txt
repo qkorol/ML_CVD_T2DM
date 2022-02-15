@@ -1,6 +1,6 @@
 The project name is ML_CVD_T2DM
 
-Machine Learning for Progressive Spatial Stratification of Cardiovascular Dysfunction in a Murine Model of Type 2 Diabetes Mellitus;
+Machine Learning for Spatial Stratification of Progressive Cardiovascular Dysfunction in a Murine Model of Type 2 Diabetes Mellitus;
 
 AK-AJD(c) 
 
